@@ -1,8 +1,8 @@
 {
-  "name": "adminx",
+  "name": "otocar",
   "version": "1.0.0-alpha.6",
   "description": "Bootstrap 4 based Admin Template",
-  "repository": "https://mxmtsk@github.com/MOVACT/AdminX.git",
+  "repository": "https://github.com/rudito1/otocar.git",
   "main": "dist/js/adminx.js",
   "keywords": [
     "admin",
