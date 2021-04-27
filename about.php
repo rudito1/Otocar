@@ -217,7 +217,7 @@
                                     </div>
                                     <div class="footer-tittle">
                                         <div class="footer-pera">
-                                            <p>Duis aute irure dolor inasfa reprehenderit in voluptate velit esse cillum reeut cupidatatfug.</p>
+<!--                                             <p>Duis aute irure dolor inasfa reprehenderit in voluptate velit esse cillum reeut cupidatatfug.</p> -->
                                         </div>
                                         <ul class="mb-40">
                                             <li class="number"><a href="#">(80) 783 367-3904</a></li>
