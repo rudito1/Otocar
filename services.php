@@ -28,7 +28,7 @@
 
 <body class="full-wrapper">
     <!-- ? Preloader Start -->
-    <div id="preloader-active">
+<!--     <div id="preloader-active">
         <div class="preloader d-flex align-items-center justify-content-center">
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
@@ -37,7 +37,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Preloader Start -->
     <header>
         <!-- Header Start -->
@@ -130,13 +130,13 @@
                                 <h4>$50.00</h4>
                             </div>
                             <div class="card-bottom">
-                                <ul>
+<!--                                 <ul>
                                     <li>2 TB of space</li>
                                     <li>unlimited bandwidth</li>
                                     <li>full backup systems</li>
                                     <li>free domain</li>
                                     <li>unlimited database</li>
-                                </ul>
+                                </ul> -->
                                 <a href="#" class="borders-btn">Get Started</a>
                             </div>
                         </div>
@@ -152,13 +152,13 @@
                                 <h4>$100.00</h4>
                             </div>
                             <div class="card-bottom">
-                                <ul>
+<!--                                 <ul>
                                     <li>2 TB of space</li>
                                     <li>unlimited bandwidth</li>
                                     <li>full backup systems</li>
                                     <li>free domain</li>
                                     <li>unlimited database</li>
-                                </ul>
+                                </ul> -->
                                 <a href="#" class="borders-btn">Get Started</a>
                             </div>
                         </div>
@@ -174,13 +174,13 @@
                                 <h4>$200.00</h4>
                             </div>
                             <div class="card-bottom">
-                                <ul>
+<!--                                 <ul>
                                     <li>2 TB of space</li>
                                     <li>unlimited bandwidth</li>
                                     <li>full backup systems</li>
                                     <li>free domain</li>
                                     <li>unlimited database</li>
-                                </ul>
+                                </ul> -->
                                 <a href="#" class="borders-btn">Get Started</a>
                             </div>
                         </div>
@@ -190,21 +190,21 @@
         </section>
         <!-- Pricing Card End -->
         <!--? Testimonial Area Start -->
-        <section class="testimonial-area testimonial-padding fix">
+<!--         <section class="testimonial-area testimonial-padding fix">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-xl-8 col-lg-8">
-                        <div class="about-caption pb-bottom">
+                        <div class="about-caption pb-bottom"> -->
                             <!-- Testimonial Start -->
-                            <div class="h1-testimonial-active dot-style">
+<!--                             <div class="h1-testimonial-active dot-style"> -->
                                 <!-- Single Testimonial -->
-                                <div class="single-testimonial position-relative">
+<!--                                 <div class="single-testimonial position-relative">
                                     <div class="testimonial-caption">
                                         <img src="assets/img/icon/quotes-sign.svg" alt="" class="quotes-sign">
                                         <p>"The automated process starts as soon as your clothe go into the machine. This site outcome is gleaming clothe to the placeholder text commonly</p>
-                                    </div>
+                                    </div> -->
                                     <!-- founder -->
-                                    <div class="testimonial-founder d-flex align-items-center">
+<!--                                     <div class="testimonial-founder d-flex align-items-center">
                                         <div class="founder-img">
                                             <img src="assets/img/icon/testimonial.svg" alt="">
                                         </div>
@@ -213,15 +213,15 @@
                                             <p>Creative designer at Colorlib</p>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <!-- Single Testimonial -->
-                                <div class="single-testimonial position-relative">
+<!--                                 <div class="single-testimonial position-relative">
                                     <div class="testimonial-caption">
                                         <img src="assets/img/icon/quotes-sign.svg" alt="" class="quotes-sign">
                                         <p>"The automated process starts as soon as your clothe go into the machine. This site outcome is gleaming clothe to the placeholder text commonly</p>
-                                    </div>
+                                    </div> -->
                                     <!-- founder -->
-                                    <div class="testimonial-founder d-flex align-items-center">
+<!--                                     <div class="testimonial-founder d-flex align-items-center">
                                         <div class="founder-img">
                                             <img src="assets/img/icon/testimonial.svg" alt="">
                                         </div>
@@ -232,17 +232,17 @@
                                     </div>
                                 </div>
                                 
-                            </div>
-                            <!-- Testimonial End -->
+                            </div> -->
+<!--                             <!-- Testimonial End -->
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!-- testimonial-right img -->
-            <div class="testimonial-right-img">
+<!--             <div class="testimonial-right-img">
                 <img src="assets/img/gallery/testimonial-right-img.png" alt="">
             </div>
-        </section>
+        </section> -->
         <!--? Testimonial Area End -->
         <!--? Services Area Start -->
         <section class="categories-area section-padding40">
@@ -306,7 +306,7 @@
         </section>
         <!--? Services Area End -->
         <!-- Map -->
-        <div class="maps-area maps-area2">
+<!--         <div class="maps-area maps-area2">
             <div class="container">
                 <div class="row no-gutters">
                     <div class="col-lg-7 col-md-7 col-sm-7">
@@ -317,7 +317,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </main>
     <footer>
         <div class="footer-wrapper section-bg2"  data-background="assets/img/gallery/footer-bg.png">
@@ -391,7 +391,7 @@
                             <div class="col-xl-12 ">
                                 <div class="footer-copy-right text-center">
                                     <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                                      Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<!--                                       Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a> -->
                                       <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                                   </div>
                               </div>
