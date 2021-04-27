@@ -59,7 +59,7 @@
 						<div class="wrap-login100-form-btn">
 							<div class="login100-form-bgbtn"></div>
 							<button class="login100-form-btn">
-							<a href="Admin/index.html">LOGIN</a>
+							<a href="Admin/index.php">LOGIN</a>
 							</button>
 						</div>
 					</div>
