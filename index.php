@@ -223,38 +223,38 @@
         </section>
         <!-- Pricing Card End -->
         <!--? Testimonial Area Start -->
-        <section class="testimonial-area testimonial-padding fix">
+<!--         <section class="testimonial-area testimonial-padding fix">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-xl-8 col-lg-8">
-                        <div class="about-caption pb-bottom">
+                        <div class="about-caption pb-bottom"> -->
                             <!-- Testimonial Start -->
-                            <div class="h1-testimonial-active dot-style">
+<!--                             <div class="h1-testimonial-active dot-style"> -->
                                 <!-- Single Testimonial -->
-                                <div class="single-testimonial position-relative">
+<!--                                 <div class="single-testimonial position-relative">
                                     <div class="testimonial-caption">
                                         <img src="assets/img/icon/quotes-sign.svg" alt="" class="quotes-sign">
                                         <p>"The automated process starts as soon as your clothe go into the machine. This site outcome is gleaming clothe to the placeholder text commonly</p>
-                                    </div>
+                                    </div> -->
                                     <!-- founder -->
-                                    <div class="testimonial-founder d-flex align-items-center">
+<!--                                     <div class="testimonial-founder d-flex align-items-center">
                                         <div class="founder-img">
                                             <img src="assets/img/icon/testimonial.svg" alt="">
                                         </div>
                                         <div class="founder-text">
-                                            <span>Robart Brown</span>
+                                            <span>Robart Brown</span> -->
 <!--                                             <p>Creative designer at Colorlib</p> -->
-                                        </div>
+<!--                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <!-- Single Testimonial -->
-                                <div class="single-testimonial position-relative">
+<!--                                 <div class="single-testimonial position-relative">
                                     <div class="testimonial-caption">
                                         <img src="assets/img/icon/quotes-sign.svg" alt="" class="quotes-sign">
                                         <p>"The automated process starts as soon as your clothe go into the machine. This site outcome is gleaming clothe to the placeholder text commonly</p>
-                                    </div>
+                                    </div> -->
                                     <!-- founder -->
-                                    <div class="testimonial-founder d-flex align-items-center">
+<!--                                     <div class="testimonial-founder d-flex align-items-center">
                                         <div class="founder-img">
                                             <img src="assets/img/icon/testimonial.svg" alt="">
                                         </div>
@@ -265,17 +265,17 @@
                                     </div>
                                 </div>
                                 
-                            </div>
+                            </div> -->
                             <!-- Testimonial End -->
-                        </div>
+<!--                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!-- testimonial-right img -->
-            <div class="testimonial-right-img">
+<!--             <div class="testimonial-right-img">
                 <img src="assets/img/gallery/testimonial-right-img.png" alt="">
             </div>
-        </section>
+        </section> -->
         <!--? Testimonial Area End -->
         <!--? Services Area Start -->
         <section class="categories-area section-padding40">
@@ -339,26 +339,26 @@
         </section>
         <!--? Services Area End -->
         <!--? video_start -->
-        <div class="video-area section-bg2 d-flex align-items-center"  data-background="assets/img/gallery/video-bg.png">
+<!--         <div class="video-area section-bg2 d-flex align-items-center"  data-background="assets/img/gallery/video-bg.png">
             <div class="container">
                 <div class="row">
                     <div class="offset-xl-4 offset-lg-5 offset-md-2 col-xl-6 col-lg-6 offset-sm-1 col-sm-11">
-                        <div class="video-wrap">
+                        <div class="video-wrap"> -->
                             <!-- Video icon -->
-                            <div class="video-icon" >
+<!--                             <div class="video-icon" >
                                 <a class="popup-video btn-icon" href="https://www.youtube.com/watch?v=up68UAfH0d0"><i class="fas fa-play"></i></a>
                             </div>
                         </div>
                         <div class="section-tittle section-tittle2 mb-90">
-                            <h2>Mobil Anda akan terlihat seperti mobil baru Anda</h2>
+                            <h2>Mobil Anda akan terlihat seperti mobil baru Anda</h2> -->
 <!--                             <p>Duis aute irure dolor inasfa reprehenderit in voluptate velit esse cillum reeut cupidatatfug.</p> -->
-                        </div>
+<!--                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- video_end -->
-        <div class="maps-area">
+<!--         <div class="maps-area">
             <div class="container">
                 <div class="row no-gutters">
                     <div class="col-lg-7 col-md-7 col-sm-7">
@@ -369,7 +369,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </main>
     <footer>
         <div class="footer-wrapper section-bg2"  data-background="assets/img/gallery/footer-bg.png">
