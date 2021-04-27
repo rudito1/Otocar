@@ -48,8 +48,8 @@
                         <div class="row align-items-center">
                             <!-- Logo -->
                             <div class="col-xl-2 col-lg-2">
-                                <div class="logoc">
-                                    <a href="index.php"><img src="assets/img/logo/loder.png" alt=""> Otocar</a>
+                                <div class="logo">
+                                    <a href="index.php"><img src="assets/img/logo/logo.png" alt=""></a>
                                 </div>
                             </div>
                             <div class="col-xl-10 col-lg-10">
