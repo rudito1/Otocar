@@ -11,7 +11,7 @@
     <div class="adminx-container">
       <!-- Header -->
       <nav class="navbar navbar-expand justify-content-between fixed-top">
-        <a class="navbar-brand mb-0 h1 d-none d-md-block" href="index.html">
+        <a class="navbar-brand mb-0 h1 d-none d-md-block" href="index.php">
           <img src="../demo/img/logo.png" class="navbar-brand-image d-inline-block align-top mr-2" alt="">
           AdminX
         </a>
@@ -102,7 +102,7 @@
       <div class="adminx-sidebar expand-hover push" id="sidebar">
         <ul class="sidebar-nav">
           <li class="sidebar-nav-item">
-            <a href="../index.html" class="sidebar-nav-link">
+            <a href="../index.php" class="sidebar-nav-link">
               <span class="sidebar-nav-icon">
                 <i data-feather="home"></i>
               </span>
@@ -144,7 +144,7 @@
 
             <ul class="sidebar-sub-nav collapse" id="example">
               <li class="sidebar-nav-item">
-                <a href="./charts_chartjs.html" class="sidebar-nav-link">
+                <a href="./charts_chartjs.php" class="sidebar-nav-link">
                   <span class="sidebar-nav-abbr">
                     Ch
                   </span>
@@ -155,7 +155,7 @@
               </li>
 
               <li class="sidebar-nav-item">
-                <a href="./charts_morris.html" class="sidebar-nav-link">
+                <a href="./charts_morris.php" class="sidebar-nav-link">
                   <span class="sidebar-nav-abbr">
                     Mo
                   </span>
@@ -182,7 +182,7 @@
 
             <ul class="sidebar-sub-nav collapse show" id="navTables">
               <li class="sidebar-nav-item">
-                <a href="./tables.html" class="sidebar-nav-link">
+                <a href="./tables.php" class="sidebar-nav-link">
                   <span class="sidebar-nav-abbr">
                     Re
                   </span>
@@ -193,7 +193,7 @@
               </li>
 
               <li class="sidebar-nav-item">
-                <a href="./tables_data.html" class="sidebar-nav-link active">
+                <a href="./tables_data.php" class="sidebar-nav-link active">
                   <span class="sidebar-nav-abbr">
                     Da
                   </span>
@@ -220,7 +220,7 @@
 
             <ul class="sidebar-sub-nav collapse" id="navForms">
               <li class="sidebar-nav-item">
-                <a href="./form_elements.html" class="sidebar-nav-link">
+                <a href="./form_elements.php" class="sidebar-nav-link">
                   <span class="sidebar-nav-abbr">
                     El
                   </span>
@@ -231,7 +231,7 @@
               </li>
 
               <li class="sidebar-nav-item">
-                <a href="./form_advanced.html" class="sidebar-nav-link">
+                <a href="./form_advanced.php" class="sidebar-nav-link">
                   <span class="sidebar-nav-abbr">
                     Ad
                   </span>
@@ -258,7 +258,7 @@
 
             <ul class="sidebar-sub-nav collapse" id="navUI">
               <li class="sidebar-nav-item">
-                <a href="./icons.html" class="sidebar-nav-link">
+                <a href="./icons.php" class="sidebar-nav-link">
                   <span class="sidebar-nav-abbr">
                     Ic
                   </span>
@@ -269,7 +269,7 @@
               </li>
 
               <li class="sidebar-nav-item">
-                <a href="./buttons.html" class="sidebar-nav-link">
+                <a href="./buttons.php" class="sidebar-nav-link">
                   <span class="sidebar-nav-abbr">
                     Bu
                   </span>
@@ -280,7 +280,7 @@
               </li>
 
               <li class="sidebar-nav-item">
-                <a href="./notifications.html" class="sidebar-nav-link">
+                <a href="./notifications.php" class="sidebar-nav-link">
                   <span class="sidebar-nav-abbr">
                     No
                   </span>
@@ -291,7 +291,7 @@
               </li>
 
               <li class="sidebar-nav-item">
-                <a href="./progress.html" class="sidebar-nav-link">
+                <a href="./progress.php" class="sidebar-nav-link">
                   <span class="sidebar-nav-abbr">
                     Pr
                   </span>
@@ -302,7 +302,7 @@
               </li>
 
               <li class="sidebar-nav-item">
-                <a href="./tabs.html" class="sidebar-nav-link">
+                <a href="./tabs.php" class="sidebar-nav-link">
                   <span class="sidebar-nav-abbr">
                     Ta
                   </span>
@@ -329,7 +329,7 @@
 
             <ul class="sidebar-sub-nav collapse" id="navExtra">
               <li class="sidebar-nav-item">
-                <a href="./login.html" class="sidebar-nav-link">
+                <a href="./login.php" class="sidebar-nav-link">
                   <span class="sidebar-nav-abbr">
                     Lo
                   </span>
@@ -340,7 +340,7 @@
               </li>
 
               <li class="sidebar-nav-item">
-                <a href="./signup.html" class="sidebar-nav-link">
+                <a href="./signup.php" class="sidebar-nav-link">
                   <span class="sidebar-nav-abbr">
                     Si
                   </span>
@@ -351,7 +351,7 @@
               </li>
 
               <li class="sidebar-nav-item">
-                <a href="./404.html" class="sidebar-nav-link">
+                <a href="./404.php" class="sidebar-nav-link">
                   <span class="sidebar-nav-abbr">
                     Nf
                   </span>
@@ -362,7 +362,7 @@
               </li>
 
               <li class="sidebar-nav-item">
-                <a href="./500.html" class="sidebar-nav-link">
+                <a href="./500.php" class="sidebar-nav-link">
                   <span class="sidebar-nav-abbr">
                     Is
                   </span>
@@ -373,7 +373,7 @@
               </li>
 
               <li class="sidebar-nav-item">
-                <a href="./timeline.html" class="sidebar-nav-link">
+                <a href="./timeline.php" class="sidebar-nav-link">
                   <span class="sidebar-nav-abbr">
                     Ti
                   </span>
@@ -384,7 +384,7 @@
               </li>
 
               <li class="sidebar-nav-item">
-                <a href="./invoice.html" class="sidebar-nav-link">
+                <a href="./invoice.php" class="sidebar-nav-link">
                   <span class="sidebar-nav-abbr">
                     In
                   </span>
