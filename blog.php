@@ -25,7 +25,7 @@
 </head>
 <body class="full-wrapper">
     <!--? Preloader Start -->
-    <div id="preloader-active">
+<!--     <div id="preloader-active">
         <div class="preloader d-flex align-items-center justify-content-center">
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
@@ -34,7 +34,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Preloader Start -->
     <header>
         <!-- Header Start -->
@@ -151,7 +151,7 @@
                                     </ul>
                                 </div>
                             </article>
-                            <article class="blog_item">
+<!--                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <img class="card-img rounded-0" src="assets/img/blog/single_blog_3.png" alt="">
                                     <a href="#" class="blog_item_date">
@@ -162,16 +162,16 @@
                                 <div class="blog_details">
                                     <a class="d-inline-block" href="blog_details.php">
                                         <h2 class="blog-head" style="color: #2d2d2d;">Google inks pact for new 35-storey office</h2>
-                                    </a>
+                                    </a> -->
 <!--                                     <p>That dominion stars lights dominion divide years for fourth have don't stars is that
                                     he earth it first without heaven in place seed it second morning saying.</p> -->
-                                    <ul class="blog-info-link">
+<!--                                     <ul class="blog-info-link">
                                         <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
                                         <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
                                     </ul>
                                 </div>
-                            </article>
-                            <article class="blog_item">
+                            </article> -->
+<!--                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <img class="card-img rounded-0" src="assets/img/blog/single_blog_4.png" alt="">
                                     <a href="#" class="blog_item_date">
@@ -182,16 +182,16 @@
                                 <div class="blog_details">
                                     <a class="d-inline-block" href="blog_details.php">
                                         <h2 class="blog-head" style="color: #2d2d2d;">Google inks pact for new 35-storey office</h2>
-                                    </a>
+                                    </a> -->
 <!--                                     <p>That dominion stars lights dominion divide years for fourth have don't stars is that
                                     he earth it first without heaven in place seed it second morning saying.</p> -->
-                                    <ul class="blog-info-link">
+<!--                                     <ul class="blog-info-link">
                                         <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
                                         <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
                                     </ul>
                                 </div>
-                            </article>
-                            <article class="blog_item">
+                            </article> -->
+<!--                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <img class="card-img rounded-0" src="assets/img/blog/single_blog_5.png" alt="">
                                     <a href="#" class="blog_item_date">
@@ -202,15 +202,15 @@
                                 <div class="blog_details">
                                     <a class="d-inline-block" href="blog_details.php">
                                         <h2 class="blog-head" style="color: #2d2d2d;">Google inks pact for new 35-storey office</h2>
-                                    </a>
+                                    </a> -->
 <!--                                     <p>That dominion stars lights dominion divide years for fourth have don't stars is that
                                     he earth it first without heaven in place seed it second morning saying.</p> -->
-                                    <ul class="blog-info-link">
+<!--                                     <ul class="blog-info-link">
                                         <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
                                         <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
                                     </ul>
                                 </div>
-                            </article>
+                            </article> -->
                             <nav class="blog-pagination justify-content-center d-flex">
                                 <ul class="pagination">
                                     <li class="page-item">
@@ -414,7 +414,7 @@
         </section>
         <!-- Blog Area End -->
         <!-- Map -->
-        <div class="maps-area maps-area2">
+<!--         <div class="maps-area maps-area2">
             <div class="container">
                 <div class="row no-gutters">
                     <div class="col-lg-7 col-md-7 col-sm-7">
@@ -425,7 +425,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </main>
     <footer>
         <div class="footer-wrapper section-bg2"  data-background="assets/img/gallery/footer-bg.png">
