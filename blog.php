@@ -292,8 +292,8 @@
                                     </li>
                                 </ul>
                             </aside>
-                            <aside class="single_sidebar_widget popular_post_widget">
-                                <h3 class="widget_title" style="color: #2d2d2d;">Recent Post</h3>
+<!--                             <aside class="single_sidebar_widget popular_post_widget">
+<!--                                 <h3 class="widget_title" style="color: #2d2d2d;">Recent Post</h3>
                                 <div class="media post_item">
                                     <img src="assets/img/post/post_1.png" alt="post">
                                     <div class="media-body">
@@ -304,8 +304,8 @@
                                     </div>
                                 </div>
                                 <div class="media post_item">
-                                    <img src="assets/img/post/post_2.png" alt="post">
-                                    <div class="media-body">
+                                    <img src="assets/img/post/post_2.png" alt="post"> -->
+<!--                                     <div class="media-body">
                                         <a href="blog_details.php">
                                             <h3 style="color: #2d2d2d;">The Amazing Hubble</h3>
                                         </a>
@@ -330,8 +330,8 @@
                                         <p>01 Hours ago</p>
                                     </div>
                                 </div>
-                            </aside>
-                            <aside class="single_sidebar_widget tag_cloud_widget">
+                            </aside> -->
+<!--                             <aside class="single_sidebar_widget tag_cloud_widget">
                                 <h4 class="widget_title" style="color: #2d2d2d;">Tag Clouds</h4>
                                 <ul class="list">
                                     <li>
@@ -359,9 +359,9 @@
                                         <a href="#">illustration</a>
                                     </li>
                                 </ul>
-                            </aside>
+                            </aside> -->
 
-                            <aside class="single_sidebar_widget instagram_feeds">
+<!--                             <aside class="single_sidebar_widget instagram_feeds">
                                 <h4 class="widget_title" style="color: #2d2d2d;">Instagram Feeds</h4>
                                 <ul class="instagram_row flex-wrap">
                                     <li>
@@ -395,8 +395,8 @@
                                         </a>
                                     </li>
                                 </ul>
-                            </aside>
-                            <aside class="single_sidebar_widget newsletter_widget">
+                            </aside> -->
+<!--                             <aside class="single_sidebar_widget newsletter_widget">
                                 <h4 class="widget_title" style="color: #2d2d2d;">Newsletter</h4>
                                 <form action="#">
                                     <div class="form-group">
@@ -406,7 +406,7 @@
                                     <button class="button rounded-0 primary-bg text-white w-100 btn_1 boxed-btn"
                                     type="submit">Subscribe</button>
                                 </form>
-                            </aside>
+                            </aside> -->
                         </div>
                     </div>
                 </div>
