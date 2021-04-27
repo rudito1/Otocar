@@ -49,7 +49,7 @@
                             <!-- Logo -->
                             <div class="col-xl-2 col-lg-2">
                                 <div class="logoc">
-                                    <a href="index.php"><img src="assets/img/logo/loder.png" alt=""> Otocar</a>
+                                    <a href="index.html"><img src="assets/img/logo/loder.png" alt=""> Otocar</a>
                                 </div>
                             </div>
                             <div class="col-xl-10 col-lg-10">
@@ -297,7 +297,7 @@
                             </div>
                             <div class="cat-cap">
                                 <h5>Car wash 100% without detergents</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.</p>
+<!--                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.</p> -->
                             </div>
                         </div>
                     </div>
@@ -308,7 +308,7 @@
                             </div>
                             <div class="cat-cap">
                                 <h5>Efficient surface drying machines</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.</p>
+<!--                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.</p> -->
                             </div>
                         </div>
                     </div>
@@ -319,7 +319,7 @@
                             </div>
                             <div class="cat-cap">
                                 <h5>We have an application</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.</p>
+<!--                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.</p> -->
                             </div>
                         </div>
                     </div>
@@ -330,7 +330,7 @@
                             </div>
                             <div class="cat-cap">
                                 <h5>Safe lacquer protection</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.</p>
+<!--                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.</p> -->
                             </div>
                         </div>
                     </div>
@@ -351,7 +351,7 @@
                         </div>
                         <div class="section-tittle section-tittle2 mb-90">
                             <h2>Mobil Anda akan terlihat seperti mobil baru Anda</h2>
-                            <p>Duis aute irure dolor inasfa reprehenderit in voluptate velit esse cillum reeut cupidatatfug.</p>
+<!--                             <p>Duis aute irure dolor inasfa reprehenderit in voluptate velit esse cillum reeut cupidatatfug.</p> -->
                         </div>
                     </div>
                 </div>
