@@ -49,7 +49,7 @@
                             <!-- Logo -->
                             <div class="col-xl-2 col-lg-2">
                                 <div class="logoc">
-                                    <a href="index.html"><img src="assets/img/logo/loder.png" alt=""> Otocar</a>
+                                    <a href="index.php"><img src="assets/img/logo/loder.png" alt=""> Otocar</a>
                                 </div>
                             </div>
                             <div class="col-xl-10 col-lg-10">
