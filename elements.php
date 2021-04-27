@@ -105,7 +105,7 @@
 		<section class="sample-text-area">
 			<div class="container box_1170">
 				<h3 class="text-heading">Text Sample</h3>
-				<p class="sample-text">
+<!-- 				<p class="sample-text">
 					Every avid independent filmmaker has <b>Bold</b> about making that <i>Italic</i> interest documentary,
 					or short
 					film to show off their creative prowess. Many have great ideas and want to “wow”
@@ -124,7 +124,7 @@
 					are 4 easy
 					steps to follow for good DVD replication results:
 					
-				</p>
+				</p> -->
 			</div>
 		</section>
 		<!-- End Sample Area -->
@@ -241,7 +241,7 @@
 													<img src="assets/img/elements/d.jpg" alt="" class="img-fluid">
 												</div>
 												<div class="col-md-9 mt-sm-20">
-													<p>Recently, the US Federal government banned online casinos from operating in America by making
+<!-- 													<p>Recently, the US Federal government banned online casinos from operating in America by making
 														it illegal to
 														transfer money to them through any US bank or payment system. As a result of this law, most
 														of the popular
@@ -257,7 +257,7 @@
 														clarification and start doing
 														business with me. Listed in this article are the electronic banking systems that accept
 														players from the United
-													States that wish to play in online casinos.</p>
+													States that wish to play in online casinos.</p> -->
 												</div>
 											</div>
 										</div>
@@ -265,7 +265,7 @@
 											<h3 class="mb-30">Right Aligned</h3>
 											<div class="row">
 												<div class="col-md-9">
-													<p class="text-right">Over time, even the most sophisticated, memory packed computer can begin
+<!-- 													<p class="text-right">Over time, even the most sophisticated, memory packed computer can begin
 														to run slow if we
 														don’t do something to prevent it. The reason why has less to do with how computers are made
 														and how they age and
@@ -275,7 +275,7 @@
 														happening, you need to
 														understand the reasons why your PC is getting slower and do something to keep your PC
 														running at its best. You
-													can do this through regular maintenance and PC performance optimization programs</p>
+													can do this through regular maintenance and PC performance optimization programs</p> -->
 													<p class="text-right">Before we discuss all of the things that could be affecting your PC’s
 														performance, let’s
 													talk a little about what symptoms</p>
@@ -291,31 +291,31 @@
 												<div class="col-md-4">
 													<div class="single-defination">
 														<h4 class="mb-20">Definition 01</h4>
-														<p>Recently, the US Federal government banned online casinos from operating in America by
+<!-- 														<p>Recently, the US Federal government banned online casinos from operating in America by
 															making it illegal to
 															transfer money to them through any US bank or payment system. As a result of this law,
 															most of the popular
-														online casino networks</p>
+														online casino networks</p> -->
 													</div>
 												</div>
 												<div class="col-md-4">
 													<div class="single-defination">
 														<h4 class="mb-20">Definition 02</h4>
-														<p>Recently, the US Federal government banned online casinos from operating in America by
+<!-- 														<p>Recently, the US Federal government banned online casinos from operating in America by
 															making it illegal to
 															transfer money to them through any US bank or payment system. As a result of this law,
 															most of the popular
-														online casino networks</p>
+														online casino networks</p> -->
 													</div>
 												</div>
 												<div class="col-md-4">
 													<div class="single-defination">
 														<h4 class="mb-20">Definition 03</h4>
-														<p>Recently, the US Federal government banned online casinos from operating in America by
+<!-- 														<p>Recently, the US Federal government banned online casinos from operating in America by
 															making it illegal to
 															transfer money to them through any US bank or payment system. As a result of this law,
 															most of the popular
-														online casino networks</p>
+														online casino networks</p> -->
 													</div>
 												</div>
 											</div>
