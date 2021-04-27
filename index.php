@@ -123,7 +123,7 @@
         </div>
         <!-- slider Area End-->
         <!--? Office environment  Start-->
-        <section class="office-environments" >
+<!--         <section class="office-environments" >
             <div class="container">
                 <div class="environments-wrapper section-bg02" data-background="assets/img/gallery/section_bg02.png">
                     <div class="row">
@@ -139,7 +139,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- Office environment  End-->
         <!--? Pricing Card Start -->
         <section class="pricing-card-area fix section-padding30">
