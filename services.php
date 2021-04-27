@@ -251,9 +251,8 @@
                 <div class="row">
                     <div class="col-xl-6 col-lg-7 col-md-10 col-sm-11">
                         <div class="section-tittle mb-60">
-                            <h2>Why take our services?</h2>
-                            <p>Duis aute irure dolor inasfa reprehenderit in voluptate velit esse cillum reeut 
-                            cupidatatfug nulla pariatur. Excepteur sintxsdfas occaecat.</p>
+                            <h2>Mengapa harus mengambil layanaan kami?</h2>
+                            <p>Kami akan memberikan layanan terbaik bagi pelanggan</p>
                         </div>
                     </div>
                 </div>
@@ -265,7 +264,7 @@
                             </div>
                             <div class="cat-cap">
                                 <h5>Car wash 100% without detergents</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.</p>
+                                <p></p>
                             </div>
                         </div>
                     </div>
@@ -276,7 +275,7 @@
                             </div>
                             <div class="cat-cap">
                                 <h5>Efficient surface drying machines</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.</p>
+                                <p></p>
                             </div>
                         </div>
                     </div>
@@ -287,7 +286,7 @@
                             </div>
                             <div class="cat-cap">
                                 <h5>We have an application</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.</p>
+                                <p></p>
                             </div>
                         </div>
                     </div>
@@ -298,7 +297,7 @@
                             </div>
                             <div class="cat-cap">
                                 <h5>Safe lacquer protection</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.</p>
+                                <p></p>
                             </div>
                         </div>
                     </div>
@@ -335,11 +334,11 @@
                                     </div>
                                     <div class="footer-tittle">
                                         <div class="footer-pera">
-                                            <p>Duis aute irure dolor inasfa reprehenderit in voluptate velit esse cillum reeut cupidatatfug.</p>
+                                            <p>Kami selalu memprioritaskan kepuasaan pelanggan </p>
                                         </div>
                                         <ul class="mb-40">
                                             <li class="number"><a href="#">(80) 783 367-3904</a></li>
-                                            <li class="number2"><a href="#">contact@carwash.com</a></li>
+                                            <li class="number2"><a href="#">contact@otocar.com</a></li>
                                         </ul>
                                     </div>
                                 </div>
