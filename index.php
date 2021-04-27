@@ -28,7 +28,7 @@
 
 <body class="full-wrapper">
     <!-- ? Preloader Start -->
-    <div id="preloader-active">
+<!--     <div id="preloader-active">
         <div class="preloader d-flex align-items-center justify-content-center">
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
@@ -37,7 +37,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Preloader Start -->
     <header>
         <!-- Header Start -->
@@ -163,13 +163,13 @@
                                 <h4>Rp.100.000</h4>
                             </div>
                             <div class="card-bottom">
-                                <ul>
+<!--                                 <ul>
                                     <li>2 TB of space</li>
                                     <li>unlimited bandwidth</li>
                                     <li>full backup systems</li>
                                     <li>free domain</li>
                                     <li>unlimited database</li>
-                                </ul>
+                                </ul> -->
                                 <a href="#" class="borders-btn">Get Started</a>
                             </div>
                         </div>
@@ -185,13 +185,13 @@
                                 <h4>Rp.200.000</h4>
                             </div>
                             <div class="card-bottom">
-                                <ul>
+<!--                                 <ul>
                                     <li>2 TB of space</li>
                                     <li>unlimited bandwidth</li>
                                     <li>full backup systems</li>
                                     <li>free domain</li>
                                     <li>unlimited database</li>
-                                </ul>
+                                </ul> -->
                                 <a href="#" class="borders-btn">Get Started</a>
                             </div>
                         </div>
@@ -207,13 +207,13 @@
                                 <h4>Rp.500.000</h4>
                             </div>
                             <div class="card-bottom">
-                                <ul>
+<!--                                 <ul>
                                     <li>2 TB of space</li>
                                     <li>unlimited bandwidth</li>
                                     <li>full backup systems</li>
                                     <li>free domain</li>
                                     <li>unlimited database</li>
-                                </ul>
+                                </ul> -->
                                 <a href="#" class="borders-btn">Get Started</a>
                             </div>
                         </div>
@@ -243,7 +243,7 @@
                                         </div>
                                         <div class="founder-text">
                                             <span>Robart Brown</span>
-                                            <p>Creative designer at Colorlib</p>
+<!--                                             <p>Creative designer at Colorlib</p> -->
                                         </div>
                                     </div>
                                 </div>
