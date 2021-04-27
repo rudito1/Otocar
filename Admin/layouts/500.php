@@ -19,7 +19,7 @@
           Something went horribly wrong. We're sorry! Try reloading the page.
         </p>
 
-        <a href="./500.html" class="btn btn-primary">Reload this page</a>
+        <a href="./500.php" class="btn btn-primary">Reload this page</a>
       </div>
     </div>
 
