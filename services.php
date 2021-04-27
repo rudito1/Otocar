@@ -59,23 +59,23 @@
                                         <nav>
                                             <ul id="navigation">    
 												<li><a href="Admin/index.html">Admin</a></li>
-                                                <li><a href="index.html">Home</a></li>
-                                                <li><a href="about.html">About</a></li>
-                                                <li><a href="services.html">services</a></li>
-                                                <li><a href="blog.html">Blog</a>
+                                                <li><a href="index.php">Home</a></li>
+                                                <li><a href="about.php">About</a></li>
+                                                <li><a href="services.php">services</a></li>
+                                                <li><a href="blog.php">Blog</a>
                                                     <ul class="submenu">
-                                                        <li><a href="blog.html">Blog</a></li>
-                                                        <li><a href="blog_details.html">Blog Details</a></li>
-                                                        <li><a href="elements.html">Element</a></li>
+                                                        <li><a href="blog.php">Blog</a></li>
+                                                        <li><a href="blog_details.php">Blog Details</a></li>
+                                                        <li><a href="elements.php">Element</a></li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="contact.html">Contact</a></li>
+                                                <li><a href="contact.php">Contact</a></li>
                                             </ul>
                                         </nav>
                                     </div>
                                     <!-- Header-btn -->
                                     <div class="header-right-btn d-none d-lg-block ml-20">
-                                        <a href="contact.html" class="btn header-btn"><img src="assets/img/icon/smartphone.svg" alt=""> (+62)8933357769</a>
+                                        <a href="contact.php" class="btn header-btn"><img src="assets/img/icon/smartphone.svg" alt=""> (+62)8933357769</a>
                                     </div>
                                 </div>
                             </div> 
@@ -331,7 +331,7 @@
                                 <div class="single-footer-caption mb-30">
                                     <!-- logo -->
                                     <div class="footer-logo mb-35">
-                                        <a href="index.html"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
+                                        <a href="index.php"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
                                     </div>
                                     <div class="footer-tittle">
                                         <div class="footer-pera">
