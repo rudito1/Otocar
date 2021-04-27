@@ -54,23 +54,23 @@
                 <div class="main-menu d-none d-lg-block">
                   <nav>
                     <ul id="navigation">                                                                                          
-                      <li><a href="index.html">Home</a></li>
-                      <li><a href="about.html">About</a></li>
-                      <li><a href="services.html">services</a></li>
-                      <li><a href="blog.html">Blog</a>
+                      <li><a href="index.php">Home</a></li>
+                      <li><a href="about.php">About</a></li>
+                      <li><a href="services.php">services</a></li>
+                      <li><a href="blog.php">Blog</a>
                         <ul class="submenu">
-                          <li><a href="blog.html">Blog</a></li>
-                          <li><a href="blog_details.html">Blog Details</a></li>
-                          <li><a href="elements.html">Element</a></li>
+                          <li><a href="blog.php">Blog</a></li>
+                          <li><a href="blog_details.php">Blog Details</a></li>
+                          <li><a href="elements.php">Element</a></li>
                         </ul>
                       </li>
-                      <li><a href="contact.html">Contact</a></li>
+                      <li><a href="contact.php">Contact</a></li>
                     </ul>
                   </nav>
                 </div>
                 <!-- Header-btn -->
                 <div class="header-right-btn d-none d-lg-block ml-20">
-                  <a href="contact.html" class="btn header-btn"><img src="assets/img/icon/smartphone.svg" alt=""> 10 (87) 256-2903</a>
+                  <a href="contact.php" class="btn header-btn"><img src="assets/img/icon/smartphone.svg" alt=""> 10 (87) 256-2903</a>
                 </div>
               </div>
             </div> 
@@ -396,7 +396,7 @@ class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end al
   <div class="media post_item">
    <img src="assets/img/post/post_1.png" alt="post">
    <div class="media-body">
-    <a href="blog_details.html">
+    <a href="blog_details.php">
      <h3 style="color: #2d2d2d;">From life was you fish...</h3>
    </a>
    <p>January 12, 2019</p>
@@ -405,7 +405,7 @@ class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end al
 <div class="media post_item">
  <img src="assets/img/post/post_2.png" alt="post">
  <div class="media-body">
-  <a href="blog_details.html">
+  <a href="blog_details.php">
    <h3 style="color: #2d2d2d;">The Amazing Hubble</h3>
  </a>
  <p>02 Hours ago</p>
@@ -414,7 +414,7 @@ class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end al
 <div class="media post_item">
  <img src="assets/img/post/post_3.png" alt="post">
  <div class="media-body">
-  <a href="blog_details.html">
+  <a href="blog_details.php">
    <h3 style="color: #2d2d2d;">Astronomy Or Astrology</h3>
  </a>
  <p>03 Hours ago</p>
@@ -423,7 +423,7 @@ class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end al
 <div class="media post_item">
  <img src="assets/img/post/post_4.png" alt="post">
  <div class="media-body">
-  <a href="blog_details.html">
+  <a href="blog_details.php">
    <h3 style="color: #2d2d2d;">Asteroids telescope</h3>
  </a>
  <p>01 Hours ago</p>
