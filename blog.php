@@ -46,7 +46,7 @@
                             <!-- Logo -->
                             <div class="col-xl-2 col-lg-2">
                                 <div class="logo">
-                                    <a href="index.html"><img src="assets/img/logo/logo.png" alt=""></a>
+                                    <a href="index.php"><img src="assets/img/logo/logo.png" alt=""></a>
                                 </div>
                             </div>
                             <div class="col-xl-10 col-lg-10">
@@ -55,24 +55,24 @@
                                     <div class="main-menu d-none d-lg-block">
                                         <nav>
                                             <ul id="navigation">         
-												<li><a href="Admin/index.html">Admin</a></li>
-                                                <li><a href="index.html">Home</a></li>
-                                                <li><a href="about.html">About</a></li>
-                                                <li><a href="services.html">services</a></li>
-                                                <li><a href="blog.html">Blog</a>
+						<li><a href="Admin/index.php">Admin</a></li>
+                                                <li><a href="index.php">Home</a></li>
+                                                <li><a href="about.php">About</a></li>
+                                                <li><a href="services.php">services</a></li>
+                                                <li><a href="blog.php">Blog</a>
                                                     <ul class="submenu">
-                                                        <li><a href="blog.html">Blog</a></li>
-                                                        <li><a href="blog_details.html">Blog Details</a></li>
-                                                        <li><a href="elements.html">Element</a></li>
+                                                        <li><a href="blog.php">Blog</a></li>
+                                                        <li><a href="blog_details.php">Blog Details</a></li>
+                                                        <li><a href="elements.php">Element</a></li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="contact.html">Contact</a></li>
+                                                <li><a href="contact.php">Contact</a></li>
                                             </ul>
                                         </nav>
                                     </div>
                                     <!-- Header-btn -->
                                     <div class="header-right-btn d-none d-lg-block ml-20">
-                                        <a href="contact.html" class="btn header-btn"><img src="assets/img/icon/smartphone.svg" alt=""> (+62)8933357769</a>
+                                        <a href="contact.php" class="btn header-btn"><img src="assets/img/icon/smartphone.svg" alt=""> (+62)8933357769</a>
                                     </div>
                                 </div>
                             </div> 
@@ -120,7 +120,7 @@
                                     </a>
                                 </div>
                                 <div class="blog_details">
-                                    <a class="d-inline-block" href="blog_details.html">
+                                    <a class="d-inline-block" href="blog_details.php">
                                         <h2 class="blog-head" style="color: #2d2d2d;">Google inks pact for new 35-storey office</h2>
                                     </a>
                                     <p>That dominion stars lights dominion divide years for fourth have don't stars is that
@@ -140,7 +140,7 @@
                                     </a>
                                 </div>
                                 <div class="blog_details">
-                                    <a class="d-inline-block" href="blog_details.html">
+                                    <a class="d-inline-block" href="blog_details.php">
                                         <h2 class="blog-head" style="color: #2d2d2d;">Google inks pact for new 35-storey office</h2>
                                     </a>
                                     <p>That dominion stars lights dominion divide years for fourth have don't stars is that
@@ -160,7 +160,7 @@
                                     </a>
                                 </div>
                                 <div class="blog_details">
-                                    <a class="d-inline-block" href="blog_details.html">
+                                    <a class="d-inline-block" href="blog_details.php">
                                         <h2 class="blog-head" style="color: #2d2d2d;">Google inks pact for new 35-storey office</h2>
                                     </a>
                                     <p>That dominion stars lights dominion divide years for fourth have don't stars is that
@@ -180,7 +180,7 @@
                                     </a>
                                 </div>
                                 <div class="blog_details">
-                                    <a class="d-inline-block" href="blog_details.html">
+                                    <a class="d-inline-block" href="blog_details.php">
                                         <h2 class="blog-head" style="color: #2d2d2d;">Google inks pact for new 35-storey office</h2>
                                     </a>
                                     <p>That dominion stars lights dominion divide years for fourth have don't stars is that
@@ -200,7 +200,7 @@
                                     </a>
                                 </div>
                                 <div class="blog_details">
-                                    <a class="d-inline-block" href="blog_details.html">
+                                    <a class="d-inline-block" href="blog_details.php">
                                         <h2 class="blog-head" style="color: #2d2d2d;">Google inks pact for new 35-storey office</h2>
                                     </a>
                                     <p>That dominion stars lights dominion divide years for fourth have don't stars is that
@@ -297,7 +297,7 @@
                                 <div class="media post_item">
                                     <img src="assets/img/post/post_1.png" alt="post">
                                     <div class="media-body">
-                                        <a href="blog_details.html">
+                                        <a href="blog_details.php">
                                             <h3 style="color: #2d2d2d;">From life was you fish...</h3>
                                         </a>
                                         <p>January 12, 2019</p>
@@ -306,7 +306,7 @@
                                 <div class="media post_item">
                                     <img src="assets/img/post/post_2.png" alt="post">
                                     <div class="media-body">
-                                        <a href="blog_details.html">
+                                        <a href="blog_details.php">
                                             <h3 style="color: #2d2d2d;">The Amazing Hubble</h3>
                                         </a>
                                         <p>02 Hours ago</p>
@@ -315,7 +315,7 @@
                                 <div class="media post_item">
                                     <img src="assets/img/post/post_3.png" alt="post">
                                     <div class="media-body">
-                                        <a href="blog_details.html">
+                                        <a href="blog_details.php">
                                             <h3 style="color: #2d2d2d;">Astronomy Or Astrology</h3>
                                         </a>
                                         <p>03 Hours ago</p>
@@ -324,7 +324,7 @@
                                 <div class="media post_item">
                                     <img src="assets/img/post/post_4.png" alt="post">
                                     <div class="media-body">
-                                        <a href="blog_details.html">
+                                        <a href="blog_details.php">
                                             <h3 style="color: #2d2d2d;">Asteroids telescope</h3>
                                         </a>
                                         <p>01 Hours ago</p>
@@ -438,7 +438,7 @@
                                 <div class="single-footer-caption mb-30">
                                     <!-- logo -->
                                     <div class="footer-logo mb-35">
-                                        <a href="index.html"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
+                                        <a href="index.php"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
                                     </div>
                                     <div class="footer-tittle">
                                         <div class="footer-pera">
