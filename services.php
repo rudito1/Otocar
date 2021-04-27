@@ -58,7 +58,7 @@
                                     <div class="main-menu d-none d-lg-block">
                                         <nav>
                                             <ul id="navigation">    
-												<li><a href="Admin/index.html">Admin</a></li>
+												<li><a href="Admin/index.php">Admin</a></li>
                                                 <li><a href="index.php">Home</a></li>
                                                 <li><a href="about.php">About</a></li>
                                                 <li><a href="services.php">services</a></li>
